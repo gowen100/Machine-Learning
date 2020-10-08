@@ -4,7 +4,7 @@ https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)
 
 * Deep Q:Based on : https://www.youtube.com/watch?v=SMZfgeHFFcA Lunar lander trained using a deep Q network (Need to pip install box2D on top of gym to get the Lander)
 
-* TensorFlow_CustomLayers.ipynb - Subclassing Keras layers and models to optimise with multiple inputs and outputs. Prep work for implmenting I.Halperin and I. Feldshteyn, "Market Self-Learning of Signals, Impact and Optimal Trading: Invisible Hand Inference with Free Energy", https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174498 as the project in course 3 of I. Halperin's Coursera specialization ehttps://www.coursera.org/specializations/machine-learning-reinforcement-finance
+* TensorFlow_CustomLayers.ipynb - Subclassing Keras layers and models to optimise with multiple inputs and outputs. Prep work for implmenting I.Halperin and I. Feldshteyn, "Market Self-Learning of Signals, Impact and Optimal Trading: Invisible Hand Inference with Free Energy", https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3174498 as the project in course 3 of I. Halperin's Coursera specialization https://www.coursera.org/specializations/machine-learning-reinforcement-finance
 
 * TensorFlow_No_Layers.ipynb - Optimization without Keras layers again prep work for Coursera 
 
