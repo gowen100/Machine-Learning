@@ -11,4 +11,4 @@ https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)
 
 * Trees,Forests and sklearn.ipynb - Simple clasification problem using logistic regression from sklearn, tensorflow and statsmodels and then sklearn CART, random forest and boosted tree plus sklearn naive bayes
 
-
+*Arima/PairsTrading/Kalman/Annuity - good sample code from courses I've done.
