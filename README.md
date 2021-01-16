@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE)
 
 * TensorFlow_No_Layers.ipynb - Optimization without Keras layers again prep work for Coursera. Implementing "Quantum Equilibrium-Disequilibrium: Asset Price Dynamics, Symmetry Breaking, and Defaults as Dissipative Instantons" https://arxiv.org/abs/1808.03607  as the project in course 4 of I. Halperin's Coursera specialization https://www.coursera.org/specializations/machine-learning-reinforcement-finance
 
-* Bayesian_CNN.ipny -A Bayesian convolutional neural network to classify the famous MNIST handwritten digits.A probabilistic model, designed to capture both aleatoric and epistemic uncertainty.
+* Bayesian_CNN.ipnyb -A Bayesian convolutional neural network to classify the famous MNIST handwritten digits.A probabilistic model, designed to capture both aleatoric and epistemic uncertainty.
 * Trees,Forests and sklearn.ipynb - Simple clasification problem using logistic regression from sklearn, tensorflow and statsmodels and then sklearn CART, random forest and boosted tree plus sklearn naive bayes
 
 * Arima/PairsTrading/Kalman/Annuity - good sample code from courses I've done.
